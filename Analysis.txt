@@ -11,3 +11,5 @@ Central Park S and 6 Avenue seems to be the station that has the most trip durat
 Based on the data we can observe that most of are consumers are people over the age of 40.
 
 
+
+https://public.tableau.com/app/profile/maria.valdivieso/viz/Module18Challenge_16981057640460/Story1?publish=yes
