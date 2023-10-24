@@ -1,0 +1,13 @@
+1. Station Overall Performance:
+
+We can see the overall performance of each Starting Station, and what kind of users are renting the bikes. The 8 Avenue and W 31 st., must be the station where we need to make sure the bikes are always available.
+
+2. Station and Trip Duration 
+
+Central Park S and 6 Avenue seems to be the station that has the most trip duration droppings. 
+
+3. Target Population 
+
+Based on the data we can observe that most of are consumers are people over the age of 40.
+
+
